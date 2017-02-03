@@ -6,7 +6,7 @@ html, body {
 /* define a fixed width for the entire menu */
 .navigation {
   position: absolute;
-  top: 30%;
+  top: 35%;
   left: 0%;
   width: 248px;
 }
