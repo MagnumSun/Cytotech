@@ -7,7 +7,7 @@ html, body {
   color: white;
   position: absolute;
   top: 1.5%;
-  left: 21%;
+  left: 25%;
   border: 1px solid gold ;
 }
 
@@ -15,7 +15,7 @@ html, body {
 /* define a fixed width for the entire menu */
 .navigation {
   position: absolute;
-  top: 35%;
+  top: 40%;
   left: .4%;
   width: 248px;
 }
