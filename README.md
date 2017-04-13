@@ -1,2 +1,2 @@
 # cytotech.us
-Bringing regenerative medicine to the people.
+Models the progress of regenerative medicine.
