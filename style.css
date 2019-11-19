@@ -3,7 +3,7 @@ html, body {
     background-color: black;
 }
 
-#div{
+div {
     zoom: 0.7;
     -moz-transform: scale(0.7);
 }
