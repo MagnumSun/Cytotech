@@ -4,6 +4,6 @@ html, body {
 }
 
 #box{
-    zoom: 2;
-    -moz-transform: scale(2);
+    zoom: 7;
+    -moz-transform: scale(7);
 }
